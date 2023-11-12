@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background: linear-gradient(rgba(0, 0, 0,0.7),rgba(0, 0, 0,0.7)),url(pxfuel.jpg);
+    height: 80vh;
+    display: flex;
+    
+}
+.hulu-logo img{
+    padding: 40px;
+
+}
+.login-button{
+    padding-left: 77%;
+    padding-top: 45px;
+}
+.login-button button{
+height: 40px;
+width: 65px;
+background-color: transparent;
+border-radius: 5px;
+}
+.login-button button a{
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: azure;
+    
+}
+
+
+
+
+
+.background-gradient {
+    height: 135px;
+    background: linear-gradient(rgb(59, 239, 149), rgb(23,32,33));
+}
