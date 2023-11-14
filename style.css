@@ -39,7 +39,7 @@
 .background-gradient h4 {
   padding-top: 30px;
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
 .background-gradient button {
   height: 42px;
@@ -65,7 +65,7 @@
 }
 .inc-plan {
   color: rgb(1, 236, 131);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
   font-weight: 500;
   font-size: 12px;
   padding-top: 100px;
@@ -77,18 +77,18 @@
 }
 .Tv-love h2 {
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
   font-size: 48px;
   font-weight: 600;
   letter-spacing: -0.5px;
   line-height: 1.25;
 }
-.full-seasons{
+.full-seasons {
   padding-top: 16px;
 }
 
 .full-seasons p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
   color: white;
   font-size: 16px;
   font-weight: 400;
@@ -97,162 +97,194 @@
   text-align: center;
   width: 792px;
 }
-.library{
+.library {
   display: flex;
   background-color: rgb(11, 12, 14);
   padding-top: 5px;
   padding-left: 70px;
-
 }
-.imgbutton button{
+.imgbutton button {
   border-radius: 10px;
   background-color: transparent;
 }
-.imgbutton{
+.imgbutton {
   padding-top: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
-
 }
 
-.imgph{
+.imgph {
   padding-top: 2px;
 }
-.imgph img{ 
+.imgph img {
   border-radius: 3px;
 }
-.librarybottom{
+.librarybottom {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: rgb(11, 12, 14);
 }
-.hulugreen{
+.hulugreen {
   padding-top: 100px;
   color: rgb(1, 236, 131);
   font-size: 14px;
   font-weight: 500;
-  letter-spacing: .6px;
+  letter-spacing: 0.6px;
   line-height: 1;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
-.heading h2{
-   color: white;
-
+.heading h2 {
+  color: white;
 }
-.heading h3{
+.heading h3 {
   color: white;
   text-align: center;
   width: 792px;
 }
-.buttonhulu{
+.buttonhulu {
   padding-top: 30px;
 }
-.heading{
+.heading {
   padding-top: 16px;
 }
-.heading h2{
+.heading h2 {
   font-size: 48px;
-font-weight: 600;
-letter-spacing: -.5px;
-line-height: 1.25;
-text-transform: none;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 1.25;
+  text-transform: none;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
-.heading h3{
-font-weight: 400;
-letter-spacing: 0;
-line-height: 1.32;
-text-transform: none;
-font-size: 15px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+.heading h3 {
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.32;
+  text-transform: none;
+  font-size: 15px;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
-.buttonhulu button{
+.buttonhulu button {
   height: 50px;
   width: 200px;
   border-radius: 5px;
   background-color: #1ce783;
-  border-color:  #1ce783;
+  border-color: #1ce783;
 }
-.buttonhulu a{
+.buttonhulu a {
   font-size: 14px;
-font-weight: 600;
-line-height: 1;
-letter-spacing: 0.6px;
-text-transform: uppercase;
-color: black;
-text-decoration: none;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
 }
-.disclaimer{
-padding-top: 5px;
+.disclaimer {
+  padding-top: 5px;
 }
-.disclaimer p{
-  
-  color: hsla(0,0%,100%,.6);
+.disclaimer p {
+  color: hsla(0, 0%, 100%, 0.6);
   text-align: center;
   width: 1016px;
-  
 }
-.dis{
+.dis {
   padding-top: 15px;
   font-size: 10px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
-.channel{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+.channel {
+  font-family: Graphik Web,Graphik,sans-serif;
   padding-top: 35px;
 }
-.channel a{
-  color: hsla(0,0%,100%,.6);
+.channel a {
+  color: hsla(0, 0%, 100%, 0.6);
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
 }
-.bottomcontent{
+.bottomcontent {
   background: linear-gradient(rgba(1, 29, 10, 0.7), rgba(1, 37, 12, 0.7)),
     url(pxfuel-8.jpg);
-    
-    height: 90vh;
-    display: flex;
-    flex-direction: column;
-    padding-left: 230px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-  
+
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  padding-left: 230px;
+  font-family: Graphik Web,Graphik,sans-serif;
 }
-.bottomnav{
+.bottomnav {
   padding-top: 210px;
   display: flex;
   font-size: 12px;
   font-weight: 600;
- 
+
   gap: 30px;
-  
+
   color: white;
 }
 
-.bnews{
-  color:  hsla(0,0%,100%,.6);
+.bnews {
+  color: hsla(0, 0%, 100%, 0.6);
 }
-.lisports{
-  
+.lisports {
   color: white;
 }
-.lisports h2{
+.lisports h2 {
   padding-top: 40px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.5px;
+}
+
+.lisports h4 {
+  padding-top: 40px;
+
+  text-align: center;
+  width: 450px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.32;
+  letter-spacing: 0;
+}
+.explored{
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 3px;
+}
+.paymentbottom{
+  background-color: rgb(11, 12, 14);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.writtenelements{
+  padding-top: 10px;
+  font-family: Graphik Web,Graphik,sans-serif;
+  color: white;
+}
+.writtenelements h2{
+  padding-top: 60px;
   font-size: 48px;
 font-weight: 600;
 line-height: 1.25;
 letter-spacing: -0.5px;
+padding-bottom: 10px;
+}
+.writtenelements p{
+  
+font-size: 18px;
+font-weight: 300;
+letter-spacing: 0;
+line-height: 1.32;
+text-transform: none;
+text-align: center;
+
+}
+#weight{
+  font-weight: 600;
+  padding-bottom: 40px;
 }
 
-.lisports h4{
-  padding-top: 40px;
-  
-  text-align: center;
-  width: 450px;
-  font-size: 18px;
-font-weight: 400;
-line-height: 1.32;
-letter-spacing: 0;
-}
+
