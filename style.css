@@ -286,5 +286,68 @@ text-align: center;
   font-weight: 600;
   padding-bottom: 40px;
 }
+.image img{
+  height: 12px;
+  width: 40px;
+  padding-left: 20px;
+  padding-top: 30px;
+}
+.image2 img{
+  height: 12px;
+  width: 40px;
+  padding-top: 30px;
+ 
+}
+.bottombar{
+  display: flex;
+  justify-content: center;
+  gap: 140px;
+  background-color:  rgb(11, 12, 14);
+  font-family: Graphik Web,Graphik,sans-serif;
+  padding-top: 20px;
+}
+.bottombar2{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+}
+.baseplan{
+  font-size: 14px;
+font-weight: 500;
+line-height: 1.4;
+letter-spacing: 0;
+padding-top: 50px;
+}
+.freetrail{
+  padding-top: 30px;
+}
+.mbutton button{
+  background-color: #1ce783;
+  border-color: #1ce783;
+  border-radius: 20px;
+  width: 140px;
+  height: 30px;
+  
+ 
+}
+.subs{
+  padding-top: 20px;
+}
+
+.subs button{
+  height: 40px;
+  width: 220px;
+  
+}
+.subs button a{
+  color: black;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: 600;
+}
+.withads{
+  padding-top: 60px;
+}
 
 
