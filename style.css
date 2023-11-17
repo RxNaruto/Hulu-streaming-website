@@ -196,12 +196,14 @@
 .channel {
   font-family: Graphik Web,Graphik,sans-serif;
   padding-top: 35px;
+  padding-bottom: 80px;
 }
 .channel a {
   color: hsla(0, 0%, 100%, 0.6);
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
+  
 }
 .bottomcontent {
   background: linear-gradient(rgba(1, 29, 10, 0.7), rgba(1, 37, 12, 0.7)),
@@ -305,6 +307,7 @@ text-align: center;
   background-color:  rgb(11, 12, 14);
   font-family: Graphik Web,Graphik,sans-serif;
   padding-top: 20px;
+  padding-bottom: 80px;
 }
 .bottombar2{
   display: flex;
@@ -349,5 +352,52 @@ padding-top: 50px;
 .withads{
   padding-top: 60px;
 }
+.footer{
+  display: flex;
+  gap: 100px;
+  color: #586174;
+  font-family: Graphik Web,Graphik,sans-serif;
+  padding-top: 100px;
+  padding-left: 150px;
+}
+.footer a{
+  text-decoration: none;
+  color: #586174;
+  font-size: 14px;
+font-weight: 400;
+line-height: 1.4;
+letter-spacing: 0;
+padding-top: 12px;
 
 
+}
+.browse{
+  font-size: 12px;
+font-weight: 503;
+line-height: 1;
+letter-spacing: 0.6px;
+text-transform: uppercase;
+color: #272c34;
+padding-bottom: 10px;
+}
+.browse2{
+  padding-top: 15px;
+  font-size: 12px;
+font-weight: 500;
+line-height: 1;
+letter-spacing: 0.6px;
+text-transform: uppercase;
+color: #272c34;
+padding-bottom: 10px;
+}
+.footerelements{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 100px;
+}
+.copyright{ 
+  font-family: Graphik Web,Graphik,sans-serif;
+  padding-left: 43%;
+
+}
